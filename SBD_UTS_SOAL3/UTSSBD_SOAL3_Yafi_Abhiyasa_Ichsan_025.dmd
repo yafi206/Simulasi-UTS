@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="UTSSBD_SOAL3_Yafi_Abhiyasa_Ichsan_025" id="71AA01EF-1048-548E-2240-9C8C9554D631" version="3.5">
+<createdBy>User</createdBy>
+<createdTime>2026-10-16 07:34:55 UTC</createdTime>
+<ownerDesignName>UTSSBD_SOAL3_Yafi_Abhiyasa_Ichsan_025</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>71AA01EF-1048-548E-2240-9C8C9554D631</designId>
+</OSDM_Design>
